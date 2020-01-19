@@ -1,7 +1,6 @@
 import java.lang.Exception
 
 fun main(args: Array<String>){
-    /*println("Hello world")*/
 
     // properties : Val and Var
     // valn
