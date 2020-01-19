@@ -11,12 +11,13 @@ fun main(args: Array<String>){
 
 
 
-
     // null handling
+    //varmu
 
 
 
     // Type Inference
+    //valn
 
 
 
@@ -25,11 +26,10 @@ fun main(args: Array<String>){
 
 
 
-
-
     // expressions
     //jx
     //kx
+
 
 
 
