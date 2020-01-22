@@ -1,10 +1,13 @@
 
 fun main(arg: Array<String>){
     println("------Functions are fun--------")
-
+    val name: String = "Arun"
+    name.greet()
 }
 
-
+fun String.greet() {
+    println("hei there, $this")
+}
 
 // Function return Void
 
